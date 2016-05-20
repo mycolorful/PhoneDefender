@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        style="@style/SafeLeaderTitle"
+        android:text="@string/safe_leader1_title" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:orientation="vertical"
+        android:padding="5dp"  >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/safe_leader1_text"
+            android:textColor="#000"
+            android:textSize="20sp" />
+
+        <TextView
+            style="@style/SafeLeaderText"
+            android:text="SIM变更报警" />
+
+        <TextView
+            style="@style/SafeLeaderText"
+            android:text="GPS追踪" />
+
+        <TextView
+            style="@style/SafeLeaderText"
+            android:text="远程数据销毁" />
+
+        <TextView
+            style="@style/SafeLeaderText"
+            android:text="远程锁屏" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/safe_leader_nextbtn_pressed"
+        android:text="下一步"
+        android:onClick="nextStep" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/next"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="52dp"
+        android:src="@drawable/setup1" />
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobileSafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_title">安全卫士</string>
+    <string name="marquee_text">欢迎使用361安全卫士，再也不用担心我的手机中病毒了！</string>
+    <string name="setting_title">设置页面</string>
+    <string name="safe_title">设置页面</string>
+    <string name="safe_leader1_title">1欢迎使用手机防盗</string>
+    <string name="safe_leader2_title">2手机卡绑定</string>
+    <string name="safe_leader3_title">3设置安全号码</string>
+    <string name="safe_leader4_title">4恭喜你设置完成</string>
+    <string name="safe_leader1_text">您的手机防盗卫士:</string>
+    <string name="safe_leader2_text">通过绑定SIM卡:\n下次重启手机如果发现SIM卡变化\n就会发送报警信息</string>
+    <string name="safe_leader3_text">SIM卡变更后\n报警短信会发送给安全号码</string>
+    <string name="safe_leader4_text">已成功开启防盗保护</string>
+    <string name="device_description">激活设备管理器可以帮你更好的管理手机</string>
+    <string name="title_activity_communication_safe">通讯卫士</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_app_manager">软件管理</string>
+    <string name="title_activity_atools">AToolsActivity</string>
+    <string name="title_activity_progress_manager">ProgressManagerActivity</string>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="per.yrj.mobilesafe.AppManagerActivity">
+
+    <TextView
+        style="@style/ActivityTitle"
+        android:text="进程管理"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tv_running_process"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="总进程数"
+            android:layout_alignParentLeft="true"/>
+
+        <TextView
+            android:id="@+id/tv_rom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SD卡可用：800M"
+            android:layout_below="@id/tv_running_process"/>
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9">
+
+        <ListView
+            android:id="@+id/lv_app_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="用户应用40个"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:visibility="invisible"
+            android:background="#fff"/>
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="全选"
+            android:onClick="chooseAll"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="反选"
+            android:onClick="chooseOpposite"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="清理"
+            android:onClick="killProcess"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="设置"
+            android:onClick="openSetting"/>
+    </LinearLayout>
+
+</LinearLayout>

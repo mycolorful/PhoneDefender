@@ -1,0 +1,2 @@
+CHANGED,D:\StudioProjects\myApplication\mobileSafe\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\StudioProjects\myApplication\mobileSafe\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\per\yrj\utils\BlackNumberDao$override.class

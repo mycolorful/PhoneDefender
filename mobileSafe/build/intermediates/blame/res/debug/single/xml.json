@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\xml\\device_admin.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\xml\\device_admin.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\xml\\appwidget_info.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\xml\\appwidget_info.xml"
+    }
+]

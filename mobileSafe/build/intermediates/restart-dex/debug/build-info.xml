@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="25206307768262" >
+
+    <task
+        name="javac"
+        duration="955" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="66" />
+    <task
+        name="verifier"
+        duration="35" />
+
+    <artifact
+        location="D:\StudioProjects\myApplication\mobileSafe\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+
+    <build timestamp="24967736958869" >
+        <artifact
+            location="D:\StudioProjects\myApplication\mobileSafe\build\outputs\apk\mobileSafe-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="25206307768262" >
+        <artifact
+            location="D:\StudioProjects\myApplication\mobileSafe\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

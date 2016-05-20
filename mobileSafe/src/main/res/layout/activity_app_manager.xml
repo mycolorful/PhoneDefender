@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="per.yrj.mobilesafe.AppManagerActivity">
+
+    <TextView
+        style="@style/ActivityTitle"
+        android:text="我的软件"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tv_rom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="内存可用：110M"
+            android:layout_alignParentLeft="true"/>
+
+        <TextView
+            android:id="@+id/tv_ex_stoarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SD卡可用：800M"
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/lv_app_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="用户应用40个"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:visibility="invisible"
+            android:background="#fff"/>
+    </FrameLayout>
+
+</LinearLayout>

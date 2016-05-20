@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yrj="http://schemas.android.com/apk/res/per.yrj.mobilesafe"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView 
+        android:id="@+id/tvTitle"
+        style="@style/ActivityTitle"
+        android:text="@string/setting_title"/>
+    
+    <per.yrj.view.SettingItemView
+        android:id="@+id/auto_update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"
+        yrj:item_title="设置是否自动更新"
+        yrj:desc_on="自动更新开启"
+        yrj:desc_off="自动更新关闭"/>
+
+</LinearLayout>

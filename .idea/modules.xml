@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuessSongs/GuessSongs.iml" filepath="$PROJECT_DIR$/GuessSongs/GuessSongs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobileSafe/mobileSafe.iml" filepath="$PROJECT_DIR$/mobileSafe/mobileSafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myApplication.iml" filepath="$PROJECT_DIR$/myApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shortcuttest/shortcuttest.iml" filepath="$PROJECT_DIR$/shortcuttest/shortcuttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wisebeijing/wisebeijing.iml" filepath="$PROJECT_DIR$/wisebeijing/wisebeijing.iml" />
+    </modules>
+  </component>
+</project>

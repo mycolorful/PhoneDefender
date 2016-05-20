@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\home_taskmanager.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\home_taskmanager.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\jiantou1.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\jiantou1.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\home_callmsgsafe.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\home_callmsgsafe.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_normal.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\function_greenbutton_normal.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button_unlock_pressed.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\list_button_unlock_pressed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_bg.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\launcher_bg.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_blue.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\call_locate_blue.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\trojan.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\trojan.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button_clean_default.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\list_button_clean_default.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_right_pressed.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\tab_right_pressed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\enter_setleader_pressed.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\enter_setleader_pressed.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_normal.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\btn_green_normal.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\button_normal.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\list_devider.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\list_devider.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button_clean_pressed.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\list_button_clean_pressed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_bg_portrait_child_divider.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\widget_bg_portrait_child_divider.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\home_sysoptimize.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\home_sysoptimize.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_white.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\call_locate_white.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_background.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\splash_background.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\setup1.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\setup1.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\home_apps.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\home_apps.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\desktop_button_1.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\desktop_button_1.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_scanner_malware.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\ic_scanner_malware.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\callmsgsafe.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\callmsgsafe.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_left_default.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\tab_left_default.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\img3.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\img3.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\lock.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\lock.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\enter_setleader_pressedbgi.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\enter_setleader_pressedbgi.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button_unlock_default.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\list_button_unlock_default.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_pressed.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\btn_green_pressed.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\safe.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\safe.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_left_pressed.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\tab_left_pressed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\bind.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\bind.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\img1.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\img1.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_bg_portrait.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\widget_bg_portrait.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_on.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\btn_check_on.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_import_export.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\ic_menu_import_export.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\local_popup_bg.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\local_popup_bg.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_btn_focused.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\ic_delete_btn_focused.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\home_tools.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\home_tools.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_gray.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\call_locate_gray.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\home_netmanager.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\home_netmanager.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\atools.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\atools.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\function_greenbutton_pressed.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\function_greenbutton_pressed.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_lock_big.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\icon_lock_big.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\taskmanager.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\taskmanager.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\button_pressed.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\button_pressed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\sysoptimize.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\sysoptimize.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\img2.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\img2.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\home_settings.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\home_settings.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\act_scanning_03.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\act_scanning_03.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\home_trojan.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\home_trojan.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\img4.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\img4.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_off.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\btn_check_off.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\drag.bmp",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\drag.bmp"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\netmanager.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\netmanager.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_orange.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\call_locate_orange.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_selector.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\delete_selector.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_btn.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\ic_delete_btn.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\app_pressed.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\app_pressed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\safe_leader_nextbtn_pressed.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\safe_leader_nextbtn_pressed.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\jiantou1_pressed.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\jiantou1_pressed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\call_locate_green.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\call_locate_green.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\widget_bg_portrait_child.9.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\widget_bg_portrait_child.9.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button_lock_default.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\list_button_lock_default.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\unlock.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\unlock.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\list_button_lock_pressed.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\list_button_lock_pressed.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\home_safe.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\home_safe.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\previous.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\previous.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\main_icon_36.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\main_icon_36.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\main_icon.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\main_icon.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_right_default.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\tab_right_default.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\black_list_delete_pressed.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\black_list_delete_pressed.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_divider.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\listview_divider.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\app.png",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\drawable\\app.png"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    }
+]

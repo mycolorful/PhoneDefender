@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\myApplication\\mobileSafe\\build\\intermediates\\res\\merged\\debug\\menu\\menu_communication_safe.xml",
+        "source": "D:\\StudioProjects\\myApplication\\mobileSafe\\src\\main\\res\\menu\\menu_communication_safe.xml"
+    }
+]
